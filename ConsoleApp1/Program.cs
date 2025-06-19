@@ -26,7 +26,7 @@ namespace ConsoleApp1
                 switch (opcion)
                 {
                     case 1:
-                        Console.Write("Ingrese DNI: ");
+                        Console.Write("Ingrese DNI aqui: ");
                         int dni = int.Parse(Console.ReadLine());
                         Console.Write("Ingrese Nombre: ");
                         string nombre = Console.ReadLine();
